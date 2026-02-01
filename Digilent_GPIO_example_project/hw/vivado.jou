@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Aug 24 17:14:40 2022
+# Process ID: 88628
+# Current directory: C:/Users/bokiss/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent52292
+# Log file: C:/Users/bokiss/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/bokiss/AppData/Roaming/Xilinx/Vivado\vivado.jou
+# Running On: sim-ro, OS: Windows, CPU Frequency: 2993 MHz, CPU Physical cores: 16, Host memory: 343200 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/WorkBORI/Basys-3/hw/proj/hw.xpr
+update_compile_order -fileset sources_1
+archive_project D:/WorkBORI/Basys-3/hw/Basys-3-GPIO-hw.xpr.zip -temp_dir C:/Users/bokiss/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-88628-sim-ro -force -include_local_ip_cache -include_config_settings
